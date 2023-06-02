@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.cabecalho{
+    background-color: rgb(1, 30, 54) ;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+  width: 20%;
+}
+
+.cabecalho-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+    
+}
+.Andromeda-imagem{
+    width: 20%;
+}
+.Sistemas-solares{
+    background-image: linear-gradient(#5a5a5a,#5a5a5a);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sistema-div-conteúdo{
+    width: 35%;
+}
