@@ -8,7 +8,7 @@
 }
    
 .cabecalho{
-     background-color: #242424 ;  
+     background-color: #011e36 ;  
     color: white;
     display: flex;
     justify-content: space-around;
@@ -28,18 +28,18 @@
 }    
 
 .Parte-de-cima{
-    background-color: #011e36;
+    background-color: #242424;
 }
 
 
 .Andromeda-imagem{
     width: 25%;
-    background-color: #011e36;
+    background-color: #242424;
     display: flex;
     color: white;
 }
 .Sistemas-solares{
-    background-color:#011e36;
+    background-color:#242424;
     color: white;
     display: flex;
     justify-content: center;
@@ -56,7 +56,7 @@
     padding:  24px 0;
 }
 .ORIGEM-DO-UNIVERSO{
-    background-color: #011e36;
+    background-color: #242424;
     color: white;
      display: flex;
     justify-content: center;
@@ -71,4 +71,13 @@
    
 .ODU-titulo{
      padding: 24px 0;
+}
+
+.Propaganda-div{
+    text-align: center;
+    background-color: #242424;
+}
+.Propaganda-imagem{
+    width: 400px;
+    
 }
